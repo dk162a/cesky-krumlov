@@ -1,7 +1,7 @@
 $(document).ready(function(){
     $('[data-toggle="tooltip"]').tooltip();
 });
-if ( window.location.pathname == '/' ){
+if ( window.location.pathname == '/cesky-krumlov/' ){
     var a = 0;
     $(window).scroll(function() {
         var oTop = $('.counter').offset().top - window.innerHeight;
