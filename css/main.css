@@ -206,6 +206,9 @@ footer p {
 .sidebar-stars .fa-star {
     color: #f85959;
 }
+.jumbotron {
+    border-radius: 0;
+}
 @media only screen and (max-width: 575px) {
     .card-img-top {
         height: auto;
