@@ -1,1 +1,1 @@
-https://dk162a.github.io/cesky-krumlov/.
+https://dk162a.github.io/cesky-krumlov/
